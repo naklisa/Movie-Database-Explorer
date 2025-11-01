@@ -1,5 +1,6 @@
 # Movie Database Explorer
-Link V
+Link Vercel.app
+https://movie-eksploler.vercel.app/ 
 
 Aplikasi pencarian film sederhana menggunakan **ReactJS** dan **OMDb API**.
 Aplikasi sudah memilihi 5 Fitur Utama:
